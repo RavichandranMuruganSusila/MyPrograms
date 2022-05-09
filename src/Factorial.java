@@ -6,6 +6,7 @@ public class Factorial {
 
 		int number;
 		int previous = 1;
+		int test;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter The Number   :");
 		number = sc.nextInt();
