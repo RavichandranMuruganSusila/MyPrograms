@@ -17,7 +17,7 @@ public class Factorial {
 			}
 		}
 
-		System.out.println("The Factorial  of Given Number is    :" + previous);
+		System.out.println("The Factorial  of a Given Number is    :" + previous);
 	}
 
 }
